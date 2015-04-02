@@ -1,2 +1,4 @@
 # Write your default config options here!
 fstype=none
+volume=10
+softvol=true

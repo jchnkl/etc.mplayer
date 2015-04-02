@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/mplayer
+!/.mplayer
+!/.mplayer/config
